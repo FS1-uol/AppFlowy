@@ -241,9 +241,10 @@
     "viewDataBase": "Datenbank ansehen",
     "referencePage": "Auf diesen {Name} wird verwiesen",
     "addBlockBelow": "Einen Block hinzufügen",
-    "genSummary": "Zusammenfassung generieren",
+    "aiGenerate": "Erzeugen",
     "urlLaunchAccessory": "Im Browser öffnen",
-    "urlCopyAccessory": "Webadresse kopieren."
+    "urlCopyAccessory": "Webadresse kopieren.",
+    "genSummary": "Zusammenfassung generieren"
   },
   "sideBar": {
     "closeSidebar": "Seitenleiste schließen",
@@ -335,7 +336,9 @@
     "signInGoogle": "Mit einem Google Benutzerkonto anmelden",
     "signInGithub": "Mit einem Github Benutzerkonto anmelden",
     "signInDiscord": "Mit einem Discord Benutzerkonto anmelden",
-    "more": "Mehr"
+    "more": "Mehr",
+    "create": "Erstellen",
+    "close": "Schließen"
   },
   "label": {
     "welcome": "Willkommen!",
@@ -503,6 +506,28 @@
           "title": "Bist du sicher?",
           "description": "Durch das Leeren des Caches werden Bilder und Schriftarten beim Laden erneut heruntergeladen. Deine Daten werden durch diese Aktion weder entfernt noch geändert.",
           "successHint": "Cache geleert!"
+        }
+      }
+    },
+    "planPage": {
+      "planUsage": {
+        "storageLabel": "Benutzter Speicher",
+        "storageUsage": "{} von {} GB",
+        "collaboratorsLabel": "Mitwirkende",
+        "collaboratorsUsage": "{} von {} GB",
+        "aiResponseLabel": "KI-Ausgaben",
+        "aiResponseUsage": "{} von {}",
+        "proBadge": "Pro",
+        "memberProToggle": "Unbegrenzte Anzahl von Mitgliedern",
+        "guestCollabToggle": "10 Gastmitglieder",
+        "aiCredit": {
+          "title": "AppFlowy-KI-Credits aufstocken",
+          "price": "5 $",
+          "priceDescription": "für 1.000 Credits",
+          "purchase": "KI-Credits kaufen",
+          "info": "Fügen Sie 1.000 KI-Credits pro Arbeitsbereich hinzu und integrieren Sie nahtlos individualisierbare KI in Ihren Arbeitsablauf für intelligentere, schnellere Ergebnisse mit bis zu:",
+          "infoItemOne": "10.000 Ausgaben pro Datenbank",
+          "infoItemTwo": "1.000 Ausgaben pro Arbeitsbereich"
         }
       }
     },
